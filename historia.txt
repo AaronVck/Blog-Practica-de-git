@@ -1,5 +1,5 @@
 Esta No es la historia de mi vida.
 
-Me llamo Aarón, soy PT programando, pero puedo ser mejor.
+Me llamo pollo, soy PT programando, pero puedo ser mejor.
 
 Esta es solo una practica para Git, no hay que tomarse en serio nada de lo que escriba.
